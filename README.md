@@ -8,8 +8,8 @@ Tandym is a desktop browser that any MCP agent can drive: Claude Code, Codex, Cu
 
 Get the latest installer from [Releases](https://github.com/abdullahridwan/tandym-releases/releases/latest).
 
-- **Apple Silicon:** `Tandym-<version>-arm64.dmg`
-- **Intel:** `Tandym-<version>.dmg`
+- **Apple Silicon (M1 and later):** the file ending in `-arm64.dmg`
+- **Intel:** the other `.dmg`
 
 Open the .dmg and drag Tandym to Applications. Tandym updates itself when a new version is out.
 
