@@ -8,12 +8,8 @@
 </p>
 
 <p align="center">
-  <b>Releases are in beta.</b><br>
+  <b>Tandym is in beta.</b><br>
   If you're interested, email <a href="mailto:hello@layeredlabs.ai">hello@layeredlabs.ai</a>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/abdullahridwan/tandym-releases/releases/latest"><b>Download for Mac</b></a>
 </p>
 
 <br>
@@ -41,17 +37,6 @@
 - **Local.** Tandym and your agent talk over a connection only your Mac can reach.
 - **Your passwords stay yours.** Anything you type during a handoff is hidden from your agent.
 - **Nothing irreversible without you.** Approvals are enforced by the app, not left to the model.
-
-<br>
-
-## Install
-
-Download the latest release and open the `.dmg`.
-
-- **Apple Silicon (M1 and later):** the file ending in `-arm64.dmg`
-- **Intel:** the other `.dmg`
-
-Drag Tandym to Applications. It updates itself.
 
 <br>
 
