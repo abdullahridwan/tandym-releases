@@ -1,26 +1,45 @@
-# tandym
+<p align="center">
+  <img src="banner.png" alt="tandym: the browser you share with your agent" width="100%">
+</p>
 
-**The browser you share with your agent.**
+<p align="center">
+  A desktop browser that any MCP agent can drive.<br>
+  Your agent does the work. You make the calls that matter.
+</p>
 
-Tandym is a desktop browser that any MCP agent can drive: Claude Code, Codex, Cursor, Hermes, or anything that speaks MCP. Your agent does the tedious work in the browser. It pauses for you at logins and asks for your approval before anything irreversible.
+<p align="center">
+  <a href="https://github.com/abdullahridwan/tandym-releases/releases/latest"><b>Download for Mac</b></a>
+</p>
 
-## Download
+<br>
 
-Get the latest installer from [Releases](https://github.com/abdullahridwan/tandym-releases/releases/latest).
+## How it works
+
+**1. Log in once.** Sign into your sites in Tandym. Sessions stay on your Mac.
+
+**2. Connect your agent.** The welcome tour gives you one command for Claude Code, Codex, Cursor, or any MCP client.
+
+**3. Ask.** Your agent browses, fills forms and gathers what you asked for. When it needs you, the window glows and asks. Payments, submissions and legal agreements always wait for your approval.
+
+<br>
+
+## Private by design
+
+- **Local.** Tandym and your agent talk over a connection only your Mac can reach.
+- **Your passwords stay yours.** Anything you type during a handoff is hidden from your agent.
+- **Nothing irreversible without you.** Approvals are enforced by the app, not left to the model.
+
+<br>
+
+## Install
+
+Download the latest release and open the `.dmg`.
 
 - **Apple Silicon (M1 and later):** the file ending in `-arm64.dmg`
 - **Intel:** the other `.dmg`
 
-Open the .dmg and drag Tandym to Applications. Tandym updates itself when a new version is out.
+Drag Tandym to Applications. It updates itself.
 
-## How it works
+<br>
 
-1. Log into your sites once, in Tandym.
-2. Connect your agent. The welcome tour gives you the exact command.
-3. Ask your agent to do something on the web. It works in Tandym, and it stops for you when it needs you.
-
-## Privacy
-
-Tandym runs on your Mac. It talks to your agent over a local connection that only your computer can reach. Your passwords are never sent to your agent, and anything you type during a handoff is hidden from it.
-
-This repository only hosts Tandym's releases.
+<p align="center"><sub>This repository hosts Tandym's releases.</sub></p>
