@@ -15,9 +15,9 @@
 <br>
 
 <p align="center">
-  <a href="tandym-ad.mp4"><img src="poster.png" alt="Watch the Tandym film" width="100%"></a>
+  <a href="tandym-film.mp4"><img src="film-poster.png" alt="Watch the Tandym film" width="100%"></a>
   <br>
-  <sub>Watch the film (37 seconds)</sub>
+  <sub>Watch the film (46 seconds)</sub>
 </p>
 
 <br>
