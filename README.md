@@ -8,7 +8,20 @@
 </p>
 
 <p align="center">
+  <b>Releases are in beta.</b><br>
+  If you're interested, email <a href="mailto:hello@layeredlabs.ai">hello@layeredlabs.ai</a>.
+</p>
+
+<p align="center">
   <a href="https://github.com/abdullahridwan/tandym-releases/releases/latest"><b>Download for Mac</b></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="tandym-ad.mp4"><img src="poster.png" alt="Watch the Tandym film" width="100%"></a>
+  <br>
+  <sub>Watch the film (37 seconds)</sub>
 </p>
 
 <br>
